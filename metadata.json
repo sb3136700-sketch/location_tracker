@@ -1,0 +1,6 @@
+{
+  "name": "CampusOne — Smart Campus Super Application",
+  "description": "Unified smart campus web application for real-time bus tracking, emergency SOS, smart timetable, AI study planner, attendance alerts, notices, lost & found, and campus events.",
+  "requestFramePermissions": ["geolocation", "notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

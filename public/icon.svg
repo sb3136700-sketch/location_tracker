@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#0b1329" />
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#06b6d4" />
+      <stop offset="50%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+  </defs>
+  <circle cx="256" cy="256" r="220" stroke="url(#grad)" stroke-width="8" opacity="0.3" />
+  <!-- Graduation cap & compass icon -->
+  <path d="M256 120L76 216L256 312L436 216L256 120Z" fill="url(#grad)" />
+  <path d="M148 255V340C148 375 196 404 256 404C316 404 364 375 364 340V255L256 312L148 255Z" fill="#1e293b" stroke="url(#grad)" stroke-width="8" />
+  <circle cx="256" cy="216" r="24" fill="#ffffff" />
+  <path d="M436 216V330" stroke="#06b6d4" stroke-width="8" stroke-linecap="round" />
+  <circle cx="436" cy="340" r="10" fill="#06b6d4" />
+</svg>
